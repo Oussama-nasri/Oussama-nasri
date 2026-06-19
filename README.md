@@ -1,6 +1,7 @@
-## Hi there, I'm Oussama Nasri! 👋
+# Hi there, I'm Oussama 👋
+📍 **Tunis** | 🤖 **Polyagentmorous builder**
 
-Welcome to my GitHub profile! I'm a passionate AI engineer and data enthusiast who loves solving complex problems using machine learning and AI. Here's a bit about me:
+Now at **MosoftyAI**, working on creating AI solutions.
 
 ## 🚀 About Me
 - 🎓 I'm an Artificial Intelligence engineer with two years of experience working in a startup in Tunisia.
