@@ -35,7 +35,7 @@ Now at **MosoftyAI**, building production-grade AI systems — from multilingual
 
 ### 🔎 AI Retrieval & Verification Systems
 - 🩺 **[ClinicalTruth](https://github.com/Oussama-nasri/ClinicalTruth)** — multilingual medical guideline verification engine
-- ⚙️ **[OSS Dependency & API Compatibility Knowledge Graph]([https://github.com/Oussama-nasri/ClinicalTruth](https://github.com/Oussama-nasri/oss-versionning-knowledge-graph)** — OSS Dependency & API Compatibility Knowledge Graph
+- ⚙️ **[ClinicalTruth](https://github.com/Oussama-nasri/oss-versionning-knowledge-graph)** — OSS Dependency & API Compatibility Knowledge Graph
 - 📚 **[science-rag](https://github.com/Oussama-nasri/science-rag)** *(Private)* — production-ready Corrective RAG system for Tunisian 9th-grade Life & Earth Sciences
 
 ### 🤖 Agentic AI & MCP Tooling
